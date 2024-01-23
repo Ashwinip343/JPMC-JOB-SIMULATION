@@ -8,3 +8,4 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
+<img width="844" alt="Screenshot 2024-01-23 at 7 36 26 PM" src="https://github.com/Ashwinip343/JPMC-JOB-SIMULATION/assets/91271985/216f97ff-6c65-4648-9132-e16a65c4393b">
